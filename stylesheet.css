@@ -1,0 +1,70 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+body {
+  margin: 20px;
+  padding: 20px;
+}
+
+h1,
+h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(4, 73, 4);
+  padding-top: 10px;
+}
+
+p,
+dl {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+html {
+  background-image: url(galleri/Ver\ Black.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+dl {
+  padding-top: 10px;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a:hover {
+  font-size: 30px;
+  color: rgb(4, 73, 4);
+}
+
+header {
+  color: rgb(4, 73, 4);
+  padding: 14px;
+
+  font-size: 20px;
+}
+
+img {
+  border-radius: 8px;
+}
